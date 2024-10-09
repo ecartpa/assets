@@ -4,6 +4,6 @@
     "symbol": "zWETH",
     "decimals": 6,
     "coingecko_id": "weth",
-    "logo": "assets/0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::WETH/logo.png",
+    "logo": "https://raw.githubusercontent.com/ecartpa/assets/main/chains/aptos/assets/0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::WETH/logo.png",
     "website": ""
 }

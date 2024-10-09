@@ -4,6 +4,6 @@
     "symbol": "DLC",
     "decimals": 8,
     "coingecko_id": "doglaikacoin",
-    "logo": "assets/0x84edd115c901709ef28f3cb66a82264ba91bfd24789500b6fd34ab9e8888e272::coin::DLC/logo.png",
+    "logo": "https://raw.githubusercontent.com/ecartpa/assets/main/chains/aptos/assets/0x84edd115c901709ef28f3cb66a82264ba91bfd24789500b6fd34ab9e8888e272::coin::DLC/logo.png",
     "website": "http://linktr.ee/doglaikacoin"
 }

@@ -4,6 +4,6 @@
     "symbol": "DTO",
     "decimals": 8,
     "coingecko_id": "ditto-discount-token",
-    "logo": "assets/0xd11107bdf0d6d7040c6c0bfbdecb6545191fdf13e8d8d259952f53e1713f61b5::ditto_discount_coin::DittoDiscountCoin/logo.png",
+    "logo": "https://raw.githubusercontent.com/ecartpa/assets/main/chains/aptos/assets/0xd11107bdf0d6d7040c6c0bfbdecb6545191fdf13e8d8d259952f53e1713f61b5::ditto_discount_coin::DittoDiscountCoin/logo.png",
     "website": "https://www.dittofinance.io/"
 }

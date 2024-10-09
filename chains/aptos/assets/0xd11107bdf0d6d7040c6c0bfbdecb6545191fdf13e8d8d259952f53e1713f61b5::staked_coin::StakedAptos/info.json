@@ -4,6 +4,6 @@
     "symbol": "stAPT",
     "decimals": 8,
     "coingecko_id": "ditto-staked-aptos",
-    "logo": "assets/0xd11107bdf0d6d7040c6c0bfbdecb6545191fdf13e8d8d259952f53e1713f61b5::staked_coin::StakedAptos/logo.png",
+    "logo": "https://raw.githubusercontent.com/ecartpa/assets/main/chains/aptos/assets/0xd11107bdf0d6d7040c6c0bfbdecb6545191fdf13e8d8d259952f53e1713f61b5::staked_coin::StakedAptos/logo.png",
     "website": "https://www.dittofinance.io/"
 }

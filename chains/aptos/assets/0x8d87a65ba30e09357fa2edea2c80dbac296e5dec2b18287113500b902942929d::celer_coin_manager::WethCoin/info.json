@@ -4,6 +4,6 @@
     "symbol": "ceWETH",
     "decimals": 8,
     "coingecko_id": "ethereum",
-    "logo": "assets/0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::WethCoin/logo.png",
+    "logo": "https://raw.githubusercontent.com/ecartpa/assets/main/chains/aptos/assets/0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::WethCoin/logo.png",
     "website": "https://celer.network"
 }

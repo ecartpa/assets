@@ -4,6 +4,6 @@
     "symbol": "MEE",
     "decimals": 6,
     "coingecko_id": "",
-    "logo": "assets/0xe9c192ff55cffab3963c695cff6dbf9dad6aff2bb5ac19a6415cad26a81860d9::mee_coin::MeeCoin/logo.png",
+    "logo": "https://raw.githubusercontent.com/ecartpa/assets/main/chains/aptos/assets/0xe9c192ff55cffab3963c695cff6dbf9dad6aff2bb5ac19a6415cad26a81860d9::mee_coin::MeeCoin/logo.png",
     "website": "https://meeiro.xyz"
 }

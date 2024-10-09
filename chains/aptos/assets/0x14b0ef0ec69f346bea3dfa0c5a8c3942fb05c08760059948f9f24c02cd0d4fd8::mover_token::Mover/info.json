@@ -4,6 +4,6 @@
     "symbol": "MOVER",
     "decimals": 8,
     "coingecko_id": "mover-xyz",
-    "logo": "assets/0x14b0ef0ec69f346bea3dfa0c5a8c3942fb05c08760059948f9f24c02cd0d4fd8::mover_token::Mover/logo.png",
+    "logo": "https://raw.githubusercontent.com/ecartpa/assets/main/chains/aptos/assets/0x14b0ef0ec69f346bea3dfa0c5a8c3942fb05c08760059948f9f24c02cd0d4fd8::mover_token::Mover/logo.png",
     "website": "https://mov3r.xyz/"
 }

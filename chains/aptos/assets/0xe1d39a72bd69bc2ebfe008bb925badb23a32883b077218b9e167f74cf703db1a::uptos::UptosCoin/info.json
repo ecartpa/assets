@@ -4,6 +4,6 @@
     "symbol": "UPT",
     "decimals": 8,
     "coingecko_id": "",
-    "logo": "assets/0xe1d39a72bd69bc2ebfe008bb925badb23a32883b077218b9e167f74cf703db1a::uptos::UptosCoin/logo.png",
+    "logo": "https://raw.githubusercontent.com/ecartpa/assets/main/chains/aptos/assets/0xe1d39a72bd69bc2ebfe008bb925badb23a32883b077218b9e167f74cf703db1a::uptos::UptosCoin/logo.png",
     "website": ""
 }

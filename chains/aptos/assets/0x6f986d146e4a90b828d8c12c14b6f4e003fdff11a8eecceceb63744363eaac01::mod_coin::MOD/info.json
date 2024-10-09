@@ -4,6 +4,6 @@
     "symbol": "MOD",
     "decimals": 8,
     "coingecko_id": "move-dollar",
-    "logo": "assets/0x6f986d146e4a90b828d8c12c14b6f4e003fdff11a8eecceceb63744363eaac01::mod_coin::MOD/logo.png",
+    "logo": "https://raw.githubusercontent.com/ecartpa/assets/main/chains/aptos/assets/0x6f986d146e4a90b828d8c12c14b6f4e003fdff11a8eecceceb63744363eaac01::mod_coin::MOD/logo.png",
     "website": "https://www.thala.fi/"
 }

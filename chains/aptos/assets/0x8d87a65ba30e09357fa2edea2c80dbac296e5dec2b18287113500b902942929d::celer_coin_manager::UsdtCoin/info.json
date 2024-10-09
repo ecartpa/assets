@@ -4,6 +4,6 @@
     "symbol": "ceUSDT",
     "decimals": 6,
     "coingecko_id": "tether",
-    "logo": "assets/0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::UsdtCoin/logo.png",
+    "logo": "https://raw.githubusercontent.com/ecartpa/assets/main/chains/aptos/assets/0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::UsdtCoin/logo.png",
     "website": "https://celer.network"
 }

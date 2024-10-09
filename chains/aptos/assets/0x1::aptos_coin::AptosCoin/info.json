@@ -1,0 +1,9 @@
+{
+    "id": "0x1::aptos_coin::AptosCoin",
+    "name": "Aptos Coin",
+    "symbol": "APT",
+    "decimals": 8,
+    "coingecko_id": "aptos",
+    "logo": "https://raw.githubusercontent.com/ecartpa/assets/main/chains/aptos/assets/0x1::aptos_coin::AptosCoin/logo.png",
+    "website": "https://aptoslabs.com/"
+}

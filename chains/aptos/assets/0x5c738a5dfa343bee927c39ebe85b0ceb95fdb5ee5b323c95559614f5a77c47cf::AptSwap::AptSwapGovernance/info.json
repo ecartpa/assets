@@ -4,6 +4,6 @@
     "symbol": "APTSWAP",
     "decimals": 8,
     "coingecko_id": "",
-    "logo": "assets/0x5c738a5dfa343bee927c39ebe85b0ceb95fdb5ee5b323c95559614f5a77c47cf::AptSwap::AptSwapGovernance/logo.png",
+    "logo": "https://raw.githubusercontent.com/ecartpa/assets/main/chains/aptos/assets/0x5c738a5dfa343bee927c39ebe85b0ceb95fdb5ee5b323c95559614f5a77c47cf::AptSwap::AptSwapGovernance/logo.png",
     "website": "http://aptswap.io"
 }

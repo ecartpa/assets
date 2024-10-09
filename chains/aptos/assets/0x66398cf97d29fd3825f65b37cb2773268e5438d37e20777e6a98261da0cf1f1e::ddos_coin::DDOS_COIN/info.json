@@ -4,6 +4,6 @@
     "symbol": "DDOS",
     "decimals": 8,
     "coingecko_id": "",
-    "logo": "assets/0x66398cf97d29fd3825f65b37cb2773268e5438d37e20777e6a98261da0cf1f1e::ddos_coin::DDOS_COIN/logo.png",
+    "logo": "https://raw.githubusercontent.com/ecartpa/assets/main/chains/aptos/assets/0x66398cf97d29fd3825f65b37cb2773268e5438d37e20777e6a98261da0cf1f1e::ddos_coin::DDOS_COIN/logo.png",
     "website": "https://ddosapt.com"
 }

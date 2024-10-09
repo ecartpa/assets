@@ -4,6 +4,6 @@
     "symbol": "ABEL",
     "decimals": 8,
     "coingecko_id": "abel-finance",
-    "logo": "assets/0x7c0322595a73b3fc53bb166f5783470afeb1ed9f46d1176db62139991505dc61::abel_coin::AbelCoin/logo.png",
+    "logo": "https://raw.githubusercontent.com/ecartpa/assets/main/chains/aptos/assets/0x7c0322595a73b3fc53bb166f5783470afeb1ed9f46d1176db62139991505dc61::abel_coin::AbelCoin/logo.png",
     "website": "https://www.abelfinance.xyz/"
 }

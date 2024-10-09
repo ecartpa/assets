@@ -4,6 +4,6 @@
     "symbol": "GARI",
     "decimals": 8,
     "coingecko_id": "gari-network",
-    "logo": "assets/0x4def3d3dee27308886f0a3611dd161ce34f977a9a5de4e80b237225923492a2a::coin::T/logo.png",
+    "logo": "https://raw.githubusercontent.com/ecartpa/assets/main/chains/aptos/assets/0x4def3d3dee27308886f0a3611dd161ce34f977a9a5de4e80b237225923492a2a::coin::T/logo.png",
     "website": "https://gari.network"
 }

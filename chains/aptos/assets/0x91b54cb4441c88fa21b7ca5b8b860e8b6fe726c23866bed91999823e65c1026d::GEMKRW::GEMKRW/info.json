@@ -4,6 +4,6 @@
     "symbol": "GEMKRW",
     "decimals": 2,
     "coingecko_id": "",
-    "logo": "assets/0x91b54cb4441c88fa21b7ca5b8b860e8b6fe726c23866bed91999823e65c1026d::GEMKRW::GEMKRW/logo.png",
+    "logo": "https://raw.githubusercontent.com/ecartpa/assets/main/chains/aptos/assets/0x91b54cb4441c88fa21b7ca5b8b860e8b6fe726c23866bed91999823e65c1026d::GEMKRW::GEMKRW/logo.png",
     "website": ""
 }

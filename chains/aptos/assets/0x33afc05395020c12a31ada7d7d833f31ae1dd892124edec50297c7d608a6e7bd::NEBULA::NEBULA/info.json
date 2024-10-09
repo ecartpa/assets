@@ -4,6 +4,6 @@
     "symbol": "NBUL",
     "decimals": 8,
     "coingecko_id": "",
-    "logo": "assets/0x33afc05395020c12a31ada7d7d833f31ae1dd892124edec50297c7d608a6e7bd::NEBULA::NEBULA/logo.png",
+    "logo": "https://raw.githubusercontent.com/ecartpa/assets/main/chains/aptos/assets/0x33afc05395020c12a31ada7d7d833f31ae1dd892124edec50297c7d608a6e7bd::NEBULA::NEBULA/logo.png",
     "website": "https://nebuladao.space"
 }

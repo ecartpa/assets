@@ -4,6 +4,6 @@
     "symbol": "APARTMENT",
     "decimals": 8,
     "coingecko_id": "",
-    "logo": "assets/0x7b7bab2131de3e4f318b4abaa952f7c817b2c3df16c951caca809ac9ca9b650e::APARTMENT::APARTMENT/logo.png",
+    "logo": "https://raw.githubusercontent.com/ecartpa/assets/main/chains/aptos/assets/0x7b7bab2131de3e4f318b4abaa952f7c817b2c3df16c951caca809ac9ca9b650e::APARTMENT::APARTMENT/logo.png",
     "website": "https://aptosapartments.rent"
 }

@@ -4,6 +4,6 @@
     "symbol": "MBX",
     "decimals": 8,
     "coingecko_id": "marblex",
-    "logo": "assets/0x665d06fcd9c94430099f82973f2a5e5f13142e42fa172e72ce14f51a64bd8ad9::coin_mbx::MBX/logo.png",
+    "logo": "https://raw.githubusercontent.com/ecartpa/assets/main/chains/aptos/assets/0x665d06fcd9c94430099f82973f2a5e5f13142e42fa172e72ce14f51a64bd8ad9::coin_mbx::MBX/logo.png",
     "website": "https://www.marblex.io/"
 }
