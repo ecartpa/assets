@@ -1,0 +1,9 @@
+{
+    "id": "0xc91d826e29a3183eb3b6f6aa3a722089fdffb8e9642b94c5fcd4c48d035c0080::coin::T",
+    "name": "USD Coin (Wormhole Solana)",
+    "symbol": "USDCso",
+    "decimals": 6,
+    "coingecko_id": "",
+    "logo": "assets/0xc91d826e29a3183eb3b6f6aa3a722089fdffb8e9642b94c5fcd4c48d035c0080::coin::T/logo.png",
+    "website": ""
+}

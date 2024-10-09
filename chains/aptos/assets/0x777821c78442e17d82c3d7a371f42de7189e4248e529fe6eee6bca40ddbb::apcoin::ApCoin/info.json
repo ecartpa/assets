@@ -1,0 +1,9 @@
+{
+    "id": "0x777821c78442e17d82c3d7a371f42de7189e4248e529fe6eee6bca40ddbb::apcoin::ApCoin",
+    "name": "APass Coin",
+    "symbol": "APC",
+    "decimals": 8,
+    "coingecko_id": "",
+    "logo": "assets/0x777821c78442e17d82c3d7a371f42de7189e4248e529fe6eee6bca40ddbb::apcoin::ApCoin/logo.png",
+    "website": "https://aptpp.com"
+}

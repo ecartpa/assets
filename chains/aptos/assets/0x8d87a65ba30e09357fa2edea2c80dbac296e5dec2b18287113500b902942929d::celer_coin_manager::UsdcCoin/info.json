@@ -1,0 +1,9 @@
+{
+    "id": "0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::UsdcCoin",
+    "name": "USD Coin (Celer)",
+    "symbol": "ceUSDC",
+    "decimals": 6,
+    "coingecko_id": "usd-coin",
+    "logo": "assets/0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::UsdcCoin/logo.png",
+    "website": "https://celer.network"
+}

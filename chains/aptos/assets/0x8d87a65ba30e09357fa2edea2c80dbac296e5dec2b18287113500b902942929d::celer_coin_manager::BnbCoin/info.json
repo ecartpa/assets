@@ -1,0 +1,9 @@
+{
+    "id": "0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::BnbCoin",
+    "name": "Binance Coin (Celer)",
+    "symbol": "ceBNB",
+    "decimals": 8,
+    "coingecko_id": "binancecoin",
+    "logo": "assets/0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::BnbCoin/logo.png",
+    "website": "https://celer.network"
+}

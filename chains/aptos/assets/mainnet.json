@@ -1,0 +1,578 @@
+[
+    {
+        "id": "0xe9c192ff55cffab3963c695cff6dbf9dad6aff2bb5ac19a6415cad26a81860d9::mee_coin::MeeCoin",
+        "name": "Meeiro",
+        "symbol": "MEE",
+        "decimals": 6,
+        "coingecko_id": "",
+        "logo": "assets/0xe9c192ff55cffab3963c695cff6dbf9dad6aff2bb5ac19a6415cad26a81860d9::mee_coin::MeeCoin/logo.png",
+        "website": "https://meeiro.xyz"
+    },
+    {
+        "id": "0x52ab49a4039c3d2b0aa6e0a00aaed75dcff72a3120ba3610f62d1d0b6032345a::war_coin::WarCoin",
+        "name": "War Coin",
+        "symbol": "WAR",
+        "decimals": 8,
+        "coingecko_id": "war-coin",
+        "logo": "assets/0x52ab49a4039c3d2b0aa6e0a00aaed75dcff72a3120ba3610f62d1d0b6032345a::war_coin::WarCoin/logo.png",
+        "website": "https://werewolfandwitch.xyz/"
+    },
+    {
+        "id": "0x6f986d146e4a90b828d8c12c14b6f4e003fdff11a8eecceceb63744363eaac01::mod_coin::MOD",
+        "name": "Move Dollar",
+        "symbol": "MOD",
+        "decimals": 8,
+        "coingecko_id": "move-dollar",
+        "logo": "assets/0x6f986d146e4a90b828d8c12c14b6f4e003fdff11a8eecceceb63744363eaac01::mod_coin::MOD/logo.png",
+        "website": "https://www.thala.fi/"
+    },
+    {
+        "id": "0x7fd500c11216f0fe3095d0c4b8aa4d64a4e2e04f83758462f2b127255643615::thl_coin::THL",
+        "name": "Thala Token",
+        "symbol": "THL",
+        "decimals": 8,
+        "coingecko_id": "thala",
+        "logo": "assets/0x7fd500c11216f0fe3095d0c4b8aa4d64a4e2e04f83758462f2b127255643615::thl_coin::THL/logo.png",
+        "website": "https://www.thala.fi/"
+    },
+    {
+        "id": "0x14b0ef0ec69f346bea3dfa0c5a8c3942fb05c08760059948f9f24c02cd0d4fd8::mover_token::Mover",
+        "name": "Mover",
+        "symbol": "MOVER",
+        "decimals": 8,
+        "coingecko_id": "mover-xyz",
+        "logo": "assets/0x14b0ef0ec69f346bea3dfa0c5a8c3942fb05c08760059948f9f24c02cd0d4fd8::mover_token::Mover/logo.png",
+        "website": "https://mov3r.xyz/"
+    },
+    {
+        "id": "0xd916a950d4c1279df4aa0d6f32011842dc5c633a45c11ac5019232c159d115bb::coin::T",
+        "name": "wTBT Pool",
+        "symbol": "wTBT",
+        "decimals": 8,
+        "coingecko_id": "wtbt",
+        "logo": "assets/0xd916a950d4c1279df4aa0d6f32011842dc5c633a45c11ac5019232c159d115bb::coin::T/logo.png",
+        "website": "https://www.tprotocol.io/"
+    },
+    {
+        "id": "0xd11107bdf0d6d7040c6c0bfbdecb6545191fdf13e8d8d259952f53e1713f61b5::staked_coin::StakedAptos",
+        "name": "Ditto Staked Aptos",
+        "symbol": "stAPT",
+        "decimals": 8,
+        "coingecko_id": "ditto-staked-aptos",
+        "logo": "assets/0xd11107bdf0d6d7040c6c0bfbdecb6545191fdf13e8d8d259952f53e1713f61b5::staked_coin::StakedAptos/logo.png",
+        "website": "https://www.dittofinance.io/"
+    },
+    {
+        "id": "0xd11107bdf0d6d7040c6c0bfbdecb6545191fdf13e8d8d259952f53e1713f61b5::ditto_discount_coin::DittoDiscountCoin",
+        "name": "Ditto Discount Token",
+        "symbol": "DTO",
+        "decimals": 8,
+        "coingecko_id": "ditto-discount-token",
+        "logo": "assets/0xd11107bdf0d6d7040c6c0bfbdecb6545191fdf13e8d8d259952f53e1713f61b5::ditto_discount_coin::DittoDiscountCoin/logo.png",
+        "website": "https://www.dittofinance.io/"
+    },
+    {
+        "id": "0x111ae3e5bc816a5e63c2da97d0aa3886519e0cd5e4b046659fa35796bd11542a::amapt_token::AmnisApt",
+        "name": "Amnis Aptos Coin",
+        "symbol": "amAPT",
+        "decimals": 8,
+        "coingecko_id": "amnis-aptos",
+        "logo": "assets/0x111ae3e5bc816a5e63c2da97d0aa3886519e0cd5e4b046659fa35796bd11542a::amapt_token::AmnisApt/logo.png",
+        "website": "https://stake.amnis.finance/"
+    },
+    {
+        "id": "0x111ae3e5bc816a5e63c2da97d0aa3886519e0cd5e4b046659fa35796bd11542a::stapt_token::StakedApt",
+        "name": "Staked Aptos Coin",
+        "symbol": "stAPT",
+        "decimals": 8,
+        "coingecko_id": "amnis-staked-aptos-coin",
+        "logo": "assets/0x111ae3e5bc816a5e63c2da97d0aa3886519e0cd5e4b046659fa35796bd11542a::stapt_token::StakedApt/logo.png",
+        "website": "https://stake.amnis.finance/"
+    },
+    {
+        "id": "0xfaf4e633ae9eb31366c9ca24214231760926576c7b625313b3688b5e900731f6::staking::ThalaAPT",
+        "name": "Thala APT",
+        "symbol": "thAPT",
+        "decimals": 8,
+        "coingecko_id": "thala-apt",
+        "logo": "assets/0xfaf4e633ae9eb31366c9ca24214231760926576c7b625313b3688b5e900731f6::staking::ThalaAPT/logo.png",
+        "website": "https://thala.fi/"
+    },
+    {
+        "id": "0xfaf4e633ae9eb31366c9ca24214231760926576c7b625313b3688b5e900731f6::staking::StakedThalaAPT",
+        "name": "Staked Thala APT",
+        "symbol": "sthAPT",
+        "decimals": 8,
+        "coingecko_id": "staked-thala-apt",
+        "logo": "assets/0xfaf4e633ae9eb31366c9ca24214231760926576c7b625313b3688b5e900731f6::staking::StakedThalaAPT/logo.png",
+        "website": "https://thala.fi/"
+    },
+    {
+        "id": "0x7b7bab2131de3e4f318b4abaa952f7c817b2c3df16c951caca809ac9ca9b650e::APARTMENT::APARTMENT",
+        "name": "APARTMENT",
+        "symbol": "APARTMENT",
+        "decimals": 8,
+        "coingecko_id": "",
+        "logo": "assets/0x7b7bab2131de3e4f318b4abaa952f7c817b2c3df16c951caca809ac9ca9b650e::APARTMENT::APARTMENT/logo.png",
+        "website": "https://aptosapartments.rent"
+    },
+    {
+        "id": "0x5c738a5dfa343bee927c39ebe85b0ceb95fdb5ee5b323c95559614f5a77c47cf::Aptoge::Aptoge",
+        "name": "Aptoge",
+        "symbol": "APTOGE",
+        "decimals": 6,
+        "coingecko_id": "",
+        "logo": "assets/0x5c738a5dfa343bee927c39ebe85b0ceb95fdb5ee5b323c95559614f5a77c47cf::Aptoge::Aptoge/logo.png",
+        "website": "https://aptoge.com"
+    },
+    {
+        "id": "0xe1d39a72bd69bc2ebfe008bb925badb23a32883b077218b9e167f74cf703db1a::uptos::UptosCoin",
+        "name": "Uptos",
+        "symbol": "UPT",
+        "decimals": 8,
+        "coingecko_id": "",
+        "logo": "assets/0xe1d39a72bd69bc2ebfe008bb925badb23a32883b077218b9e167f74cf703db1a::uptos::UptosCoin/logo.png",
+        "website": ""
+    },
+    {
+        "id": "0x7b7bab2131de3e4f318b4abaa952f7c817b2c3df16c951caca809ac9ca9b650e::APARTMENT::APARTMENT",
+        "name": "APARTMENT",
+        "symbol": "APARTMENT",
+        "decimals": 8,
+        "coingecko_id": "",
+        "logo": "assets/0x7b7bab2131de3e4f318b4abaa952f7c817b2c3df16c951caca809ac9ca9b650e::APARTMENT::APARTMENT/logo.png",
+        "website": "https://aptosapartments.rent"
+    },
+    {
+        "id": "0x33afc05395020c12a31ada7d7d833f31ae1dd892124edec50297c7d608a6e7bd::NEBULA::NEBULA",
+        "name": "Nebula",
+        "symbol": "NBUL",
+        "decimals": 8,
+        "coingecko_id": "",
+        "logo": "assets/0x33afc05395020c12a31ada7d7d833f31ae1dd892124edec50297c7d608a6e7bd::NEBULA::NEBULA/logo.png",
+        "website": "https://nebuladao.space"
+    },
+    {
+        "id": "0x25a64579760a4c64be0d692327786a6375ec80740152851490cfd0b53604cf95::coin::ETERN",
+        "name": "Eternal Token",
+        "symbol": "ETERN",
+        "decimals": 8,
+        "coingecko_id": "",
+        "logo": "assets/0x25a64579760a4c64be0d692327786a6375ec80740152851490cfd0b53604cf95::coin::ETERN/logo.png",
+        "website": "https://eternalfinance.io"
+    },
+    {
+        "id": "0x63be1898a424616367e19bbd881f456a78470e123e2770b5b5dcdceb61279c54::movegpt_token::MovegptCoin",
+        "name": "MoveGPT Coin",
+        "symbol": "MGPT",
+        "decimals": 8,
+        "coingecko_id": "movegpt",
+        "logo": "assets/0x63be1898a424616367e19bbd881f456a78470e123e2770b5b5dcdceb61279c54::movegpt_token::MovegptCoin/logo.png",
+        "website": "https://movegpt.io/"
+    },
+    {
+        "id": "0x1000000fa32d122c18a6a31c009ce5e71674f22d06a581bb0a15575e6addadcc::usda::USDA",
+        "name": "Argo USD",
+        "symbol": "USDA",
+        "decimals": 6,
+        "coingecko_id": "",
+        "logo": "assets/0x1000000fa32d122c18a6a31c009ce5e71674f22d06a581bb0a15575e6addadcc::usda::USDA/logo.png",
+        "website": "https://argo.fi/"
+    },
+    {
+        "id": "0x777821c78442e17d82c3d7a371f42de7189e4248e529fe6eee6bca40ddbb::apcoin::ApCoin",
+        "name": "APass Coin",
+        "symbol": "APC",
+        "decimals": 8,
+        "coingecko_id": "",
+        "logo": "assets/0x777821c78442e17d82c3d7a371f42de7189e4248e529fe6eee6bca40ddbb::apcoin::ApCoin/logo.png",
+        "website": "https://aptpp.com"
+    },
+    {
+        "id": "0x159df6b7689437016108a019fd5bef736bac692b6d4a1f10c941f6fbb9a74ca6::oft::CakeOFT",
+        "name": "PancakeSwap Token",
+        "symbol": "CAKE",
+        "decimals": 8,
+        "coingecko_id": "pancakeswap-token",
+        "logo": "assets/0x159df6b7689437016108a019fd5bef736bac692b6d4a1f10c941f6fbb9a74ca6::oft::CakeOFT/logo.png",
+        "website": "https://pancakeswap.finance/"
+    },
+    {
+        "id": "0x389dbbc6884a1d5b1ab4e1df2913a8c1b01251e50aed377554372b2842c5e3ef::EONcoin::EONCoin",
+        "name": "EON",
+        "symbol": "EON",
+        "decimals": 8,
+        "coingecko_id": "",
+        "logo": "assets/0x389dbbc6884a1d5b1ab4e1df2913a8c1b01251e50aed377554372b2842c5e3ef::EONcoin::EONCoin/logo.png",
+        "website": "https://eonlabz.com/"
+    },
+    {
+        "id": "0x881ac202b1f1e6ad4efcff7a1d0579411533f2502417a19211cfc49751ddb5f4::coin::MOJO",
+        "name": "Mojito",
+        "symbol": "MOJO",
+        "decimals": 8,
+        "coingecko_id": "mojito",
+        "logo": "assets/0x881ac202b1f1e6ad4efcff7a1d0579411533f2502417a19211cfc49751ddb5f4::coin::MOJO/logo.png",
+        "website": "https://www.mojito.markets/"
+    },
+    {
+        "id": "0x84edd115c901709ef28f3cb66a82264ba91bfd24789500b6fd34ab9e8888e272::coin::DLC",
+        "name": "Doglaika Coin",
+        "symbol": "DLC",
+        "decimals": 8,
+        "coingecko_id": "doglaikacoin",
+        "logo": "assets/0x84edd115c901709ef28f3cb66a82264ba91bfd24789500b6fd34ab9e8888e272::coin::DLC/logo.png",
+        "website": "http://linktr.ee/doglaikacoin"
+    },
+    {
+        "id": "0x7c0322595a73b3fc53bb166f5783470afeb1ed9f46d1176db62139991505dc61::abel_coin::AbelCoin",
+        "name": "Abel Coin",
+        "symbol": "ABEL",
+        "decimals": 8,
+        "coingecko_id": "abel-finance",
+        "logo": "assets/0x7c0322595a73b3fc53bb166f5783470afeb1ed9f46d1176db62139991505dc61::abel_coin::AbelCoin/logo.png",
+        "website": "https://www.abelfinance.xyz/"
+    },
+    {
+        "id": "0x4def3d3dee27308886f0a3611dd161ce34f977a9a5de4e80b237225923492a2a::coin::T",
+        "name": "Gari",
+        "symbol": "GARI",
+        "decimals": 8,
+        "coingecko_id": "gari-network",
+        "logo": "assets/0x4def3d3dee27308886f0a3611dd161ce34f977a9a5de4e80b237225923492a2a::coin::T/logo.png",
+        "website": "https://gari.network"
+    },
+    {
+        "id": "0x7e19e5790911597559ec6b41c5465ab062be22d6ba5729845bf257a2361d7608::CITADELI::CITADELI",
+        "name": "Citadeli",
+        "symbol": "CTD",
+        "decimals": 8,
+        "coingecko_id": "",
+        "logo": "assets/0x7e19e5790911597559ec6b41c5465ab062be22d6ba5729845bf257a2361d7608::CITADELI::CITADELI/logo.png",
+        "website": "https://citadeli.crypto"
+    },
+    {
+        "id": "0x27fafcc4e39daac97556af8a803dbb52bcb03f0821898dc845ac54225b9793eb::move_coin::MoveCoin",
+        "name": "BlueMove",
+        "symbol": "MOVE",
+        "decimals": 8,
+        "coingecko_id": "bluemove",
+        "logo": "assets/0x27fafcc4e39daac97556af8a803dbb52bcb03f0821898dc845ac54225b9793eb::move_coin::MoveCoin/logo.png",
+        "website": "https://bluemove.net/"
+    },
+    {
+        "id": "0x8b2df69c9766e18486c37e3cfc53c6ce6e9aa58bbc606a8a0a219f24cf9eafc1::sui_launch_token::SuiLaunchToken",
+        "name": "Sui Launch Token",
+        "symbol": "SLT",
+        "decimals": 8,
+        "coingecko_id": "",
+        "logo": "assets/0x8b2df69c9766e18486c37e3cfc53c6ce6e9aa58bbc606a8a0a219f24cf9eafc1::sui_launch_token::SuiLaunchToken/logo.png",
+        "website": "http://suilaunch.io/"
+    },
+    {
+        "id": "0xd0b4efb4be7c3508d9a26a9b5405cf9f860d0b9e5fe2f498b90e68b8d2cedd3e::aptos_launch_token::AptosLaunchToken",
+        "name": "AptosLaunch Token",
+        "symbol": "ALT",
+        "decimals": 8,
+        "coingecko_id": "aptos-launch-token",
+        "logo": "assets/0xd0b4efb4be7c3508d9a26a9b5405cf9f860d0b9e5fe2f498b90e68b8d2cedd3e::aptos_launch_token::AptosLaunchToken/logo.png",
+        "website": "https://aptoslaunch.io"
+    },
+    {
+        "id": "0xc71d94c49826b7d81d740d5bfb80b001a356198ed7b8005ae24ccedff82b299c::bridge::APTS",
+        "name": "APTS Token",
+        "symbol": "APTS",
+        "decimals": 8,
+        "coingecko_id": "",
+        "logo": "assets/0xc71d94c49826b7d81d740d5bfb80b001a356198ed7b8005ae24ccedff82b299c::bridge::APTS/logo.png",
+        "website": "https://bluemove.net/collection/apts"
+    },
+    {
+        "id": "0x66398cf97d29fd3825f65b37cb2773268e5438d37e20777e6a98261da0cf1f1e::ddos_coin::DDOS_COIN",
+        "name": "DDOS Token",
+        "symbol": "DDOS",
+        "decimals": 8,
+        "coingecko_id": "",
+        "logo": "assets/0x66398cf97d29fd3825f65b37cb2773268e5438d37e20777e6a98261da0cf1f1e::ddos_coin::DDOS_COIN/logo.png",
+        "website": "https://ddosapt.com"
+    },
+    {
+        "id": "0x27975005fd8b836a905dc7f81c51f89e76091a4d0c4d694265f6eae0c05cb400::proton_a5d::PROTON_E54",
+        "name": "AlpacaINU Coin",
+        "symbol": "ALI",
+        "decimals": 6,
+        "coingecko_id": "",
+        "logo": "assets/0x27975005fd8b836a905dc7f81c51f89e76091a4d0c4d694265f6eae0c05cb400::proton_a5d::PROTON_E54/logo.png",
+        "website": "https://twitter.com/AlpacaINU"
+    },
+    {
+        "id": "0x5c738a5dfa343bee927c39ebe85b0ceb95fdb5ee5b323c95559614f5a77c47cf::AptSwap::AptSwapGovernance",
+        "name": "AptSwap Governance Token",
+        "symbol": "APTSWAP",
+        "decimals": 8,
+        "coingecko_id": "",
+        "logo": "assets/0x5c738a5dfa343bee927c39ebe85b0ceb95fdb5ee5b323c95559614f5a77c47cf::AptSwap::AptSwapGovernance/logo.png",
+        "website": "http://aptswap.io"
+    },
+    {
+        "id": "0xcfea864b32833f157f042618bd845145256b1bf4c0da34a7013b76e42daa53cc::usdy::USDY",
+        "name": "Ondo US Dollar Yield",
+        "symbol": "USDY",
+        "decimals": 6,
+        "coingecko_id": "ondo-us-dollar-yield",
+        "logo": "assets/0xcfea864b32833f157f042618bd845145256b1bf4c0da34a7013b76e42daa53cc::usdy::USDY/logo.png",
+        "website": "https://ondo.finance/"
+    },
+    {
+        "id": "0xe88ae9670071da40a9a6b1d97aab8f6f1898fdc3b8f1c1038b492dfad738448b::coin::Donk",
+        "name": "DONK",
+        "symbol": "DONK",
+        "decimals": 8,
+        "coingecko_id": "donk_apt",
+        "logo": "assets/0xe88ae9670071da40a9a6b1d97aab8f6f1898fdc3b8f1c1038b492dfad738448b::coin::Donk/logo.png",
+        "website": "https://donkmove.com/"
+    },
+    {
+        "id": "0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea::coin::T",
+        "name": "USD Coin (Wormhole)",
+        "symbol": "USDC",
+        "decimals": 6,
+        "coingecko_id": "usd-coin",
+        "logo": "assets/0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea::coin::T/logo.png",
+        "website": ""
+    },
+    {
+        "id": "0xa2eda21a58856fda86451436513b867c97eecb4ba099da5775520e0f7492e852::coin::T",
+        "name": "Tether USD (Wormhole)",
+        "symbol": "USDT",
+        "decimals": 6,
+        "coingecko_id": "tether",
+        "logo": "assets/0xa2eda21a58856fda86451436513b867c97eecb4ba099da5775520e0f7492e852::coin::T/logo.png",
+        "website": ""
+    },
+    {
+        "id": "0xcc8a89c8dce9693d354449f1f73e60e14e347417854f029db5bc8e7454008abb::coin::T",
+        "name": "Wrapped Ether (Wormhole)",
+        "symbol": "WETH",
+        "decimals": 8,
+        "coingecko_id": "weth",
+        "logo": "assets/0xcc8a89c8dce9693d354449f1f73e60e14e347417854f029db5bc8e7454008abb::coin::T/logo.png",
+        "website": ""
+    },
+    {
+        "id": "0xacd014e8bdf395fa8497b6d585b164547a9d45269377bdf67c96c541b7fec9ed::coin::T",
+        "name": "Tether USD",
+        "symbol": "USDTbs",
+        "decimals": 8,
+        "coingecko_id": "tether",
+        "logo": "assets/0xacd014e8bdf395fa8497b6d585b164547a9d45269377bdf67c96c541b7fec9ed::coin::T/logo.png",
+        "website": ""
+    },
+    {
+        "id": "0xc91d826e29a3183eb3b6f6aa3a722089fdffb8e9642b94c5fcd4c48d035c0080::coin::T",
+        "name": "USD Coin (Wormhole Solana)",
+        "symbol": "USDCso",
+        "decimals": 6,
+        "coingecko_id": "",
+        "logo": "assets/0xc91d826e29a3183eb3b6f6aa3a722089fdffb8e9642b94c5fcd4c48d035c0080::coin::T/logo.png",
+        "website": ""
+    },
+    {
+        "id": "0xc7160b1c2415d19a88add188ec726e62aab0045f0aed798106a2ef2994a9101e::coin::T",
+        "name": "USD Coin (Wormhole Polygon)",
+        "symbol": "USDCpo",
+        "decimals": 6,
+        "coingecko_id": "usd-coin",
+        "logo": "assets/0xc7160b1c2415d19a88add188ec726e62aab0045f0aed798106a2ef2994a9101e::coin::T/logo.png",
+        "website": ""
+    },
+    {
+        "id": "0x79a6ed7a0607fdad2d18d67d1a0e552d4b09ebce5951f1e5c851732c02437595::coin::T",
+        "name": "USD Coin (Wormhole, BSC)",
+        "symbol": "USDCbs",
+        "decimals": 8,
+        "coingecko_id": "usd-coin",
+        "logo": "assets/0x79a6ed7a0607fdad2d18d67d1a0e552d4b09ebce5951f1e5c851732c02437595::coin::T/logo.png",
+        "website": ""
+    },
+    {
+        "id": "0x39d84c2af3b0c9895b45d4da098049e382c451ba63bec0ce0396ff7af4bb5dff::coin::T",
+        "name": "USD Coin (Wormhole Avalanche)",
+        "symbol": "USDCav",
+        "decimals": 6,
+        "coingecko_id": "usd-coin",
+        "logo": "assets/0x39d84c2af3b0c9895b45d4da098049e382c451ba63bec0ce0396ff7af4bb5dff::coin::T/logo.png",
+        "website": ""
+    },
+    {
+        "id": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC",
+        "name": "USD Coin (LayerZero)",
+        "symbol": "zUSDC",
+        "decimals": 6,
+        "coingecko_id": "usd-coin",
+        "logo": "assets/0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC/logo.png",
+        "website": ""
+    },
+    {
+        "id": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDT",
+        "name": "USD Tether (LayerZero)",
+        "symbol": "zUSDT",
+        "decimals": 6,
+        "coingecko_id": "tether",
+        "logo": "assets/0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDT/logo.png",
+        "website": ""
+    },
+    {
+        "id": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::WETH",
+        "name": "Wrapped Ether (LayerZero)",
+        "symbol": "zWETH",
+        "decimals": 6,
+        "coingecko_id": "weth",
+        "logo": "assets/0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::WETH/logo.png",
+        "website": ""
+    },
+    {
+        "id": "0x665d06fcd9c94430099f82973f2a5e5f13142e42fa172e72ce14f51a64bd8ad9::coin_mbx::MBX",
+        "name": "MARBLEX",
+        "symbol": "MBX",
+        "decimals": 8,
+        "coingecko_id": "marblex",
+        "logo": "assets/0x665d06fcd9c94430099f82973f2a5e5f13142e42fa172e72ce14f51a64bd8ad9::coin_mbx::MBX/logo.png",
+        "website": "https://www.marblex.io/"
+    },
+    {
+        "id": "0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::UsdcCoin",
+        "name": "USD Coin (Celer)",
+        "symbol": "ceUSDC",
+        "decimals": 6,
+        "coingecko_id": "usd-coin",
+        "logo": "assets/0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::UsdcCoin/logo.png",
+        "website": "https://celer.network"
+    },
+    {
+        "id": "0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::UsdtCoin",
+        "name": "Tether USD (Celer)",
+        "symbol": "ceUSDT",
+        "decimals": 6,
+        "coingecko_id": "tether",
+        "logo": "assets/0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::UsdtCoin/logo.png",
+        "website": "https://celer.network"
+    },
+    {
+        "id": "0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::WbtcCoin",
+        "name": "Wrapped BTC (Celer)",
+        "symbol": "ceWBTC",
+        "decimals": 8,
+        "coingecko_id": "wrapped-bitcoin",
+        "logo": "assets/0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::WbtcCoin/logo.png",
+        "website": "https://celer.network"
+    },
+    {
+        "id": "0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::WethCoin",
+        "name": "Wrapped Ether (Celer)",
+        "symbol": "ceWETH",
+        "decimals": 8,
+        "coingecko_id": "ethereum",
+        "logo": "assets/0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::WethCoin/logo.png",
+        "website": "https://celer.network"
+    },
+    {
+        "id": "0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::DaiCoin",
+        "name": "Dai Stablecoin (Celer)",
+        "symbol": "ceDAI",
+        "decimals": 8,
+        "coingecko_id": "dai",
+        "logo": "assets/0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::DaiCoin/logo.png",
+        "website": "https://celer.network"
+    },
+    {
+        "id": "0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::BnbCoin",
+        "name": "Binance Coin (Celer)",
+        "symbol": "ceBNB",
+        "decimals": 8,
+        "coingecko_id": "binancecoin",
+        "logo": "assets/0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::BnbCoin/logo.png",
+        "website": "https://celer.network"
+    },
+    {
+        "id": "0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::BusdCoin",
+        "name": "Binance USD (Celer)",
+        "symbol": "ceBUSD",
+        "decimals": 8,
+        "coingecko_id": "binance-usd",
+        "logo": "assets/0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::BusdCoin/logo.png",
+        "website": "https://celer.network"
+    },
+    {
+        "id": "0xd6d6372c8bde72a7ab825c00b9edd35e643fb94a61c55d9d94a9db3010098548::USDC::Coin",
+        "name": "USD Coin (Multichain)",
+        "symbol": "multiUSDC",
+        "decimals": 6,
+        "coingecko_id": "usd-coin",
+        "logo": "assets/0xd6d6372c8bde72a7ab825c00b9edd35e643fb94a61c55d9d94a9db3010098548::USDC::Coin/logo.png",
+        "website": "https://multichain.org/"
+    },
+    {
+        "id": "0x4fbed3f8a3fd8a11081c8b6392152a8b0cb14d70d0414586f0c9b858fcd2d6a7::UPTOS::UPTOS",
+        "name": "UPTOS",
+        "symbol": "UPTOS",
+        "decimals": 8,
+        "coingecko_id": "uptos",
+        "logo": "assets/0x4fbed3f8a3fd8a11081c8b6392152a8b0cb14d70d0414586f0c9b858fcd2d6a7::UPTOS::UPTOS/logo.png",
+        "website": "https://uptos.xyz/"
+    },
+    {
+        "id": "0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3::reserve::LP<0x1::aptos_coin::AptosCoin>",
+        "name": "Aries Aptos Coin LP Token",
+        "symbol": "ar-APT",
+        "decimals": 8,
+        "coingecko_id": "",
+        "logo": "assets/0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3::reserve::LP<0x1::aptos_coin::AptosCoin>/logo.png",
+        "website": "https://ariesmarkets.xyz/"
+    },
+    {
+        "id": "0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3::reserve::LP<0xdd89c0e695df0692205912fb69fc290418bed0dbe6e4573d744a6d5e6bab6c13::coin::T>",
+        "name": "Aries Solana (Wormhole) LP Token",
+        "symbol": "ar-SOL",
+        "decimals": 8,
+        "coingecko_id": "",
+        "logo": "assets/0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3::reserve::LP<0xdd89c0e695df0692205912fb69fc290418bed0dbe6e4573d744a6d5e6bab6c13::coin::T>/logo.png",
+        "website": "https://ariesmarkets.xyz/"
+    },
+    {
+        "id": "0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3::reserve::LP<0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC>",
+        "name": "Aries USDC (Layerzero) LP Token",
+        "symbol": "ar-zUSDC",
+        "decimals": 6,
+        "coingecko_id": "",
+        "logo": "assets/0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3::reserve::LP<0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC>/logo.png",
+        "website": "https://ariesmarkets.xyz/"
+    },
+    {
+        "id": "0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3::reserve::LP<0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea::coin::T>",
+        "name": "Aries USDC (Wormhole) LP Token",
+        "symbol": "ar-USDC",
+        "decimals": 6,
+        "coingecko_id": "",
+        "logo": "assets/0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3::reserve::LP<0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea::coin::T>/logo.png",
+        "website": "https://ariesmarkets.xyz/"
+    },
+    {
+        "id": "0x91b54cb4441c88fa21b7ca5b8b860e8b6fe726c23866bed91999823e65c1026d::GEMKRW::GEMKRW",
+        "name": "GEM.KRW",
+        "symbol": "GEMKRW",
+        "decimals": 2,
+        "coingecko_id": "",
+        "logo": "assets/0x91b54cb4441c88fa21b7ca5b8b860e8b6fe726c23866bed91999823e65c1026d::GEMKRW::GEMKRW/logo.png",
+        "website": ""
+    },
+    {
+        "id": "0x198e4a77b72cbcac7465e774e99d2ba552053ca57b0759ea3c008433742b4e4f::PEPE::Pepe",
+        "name": "Pepe",
+        "symbol": "PEPE",
+        "decimals": 8,
+        "coingecko_id": "",
+        "logo": "assets/0x198e4a77b72cbcac7465e774e99d2ba552053ca57b0759ea3c008433742b4e4f::PEPE::Pepe/logo.png",
+        "website": "https://pepe.as"
+    }
+]

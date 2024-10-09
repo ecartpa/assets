@@ -1,0 +1,9 @@
+{
+    "id": "0x63be1898a424616367e19bbd881f456a78470e123e2770b5b5dcdceb61279c54::movegpt_token::MovegptCoin",
+    "name": "MoveGPT Coin",
+    "symbol": "MGPT",
+    "decimals": 8,
+    "coingecko_id": "movegpt",
+    "logo": "assets/0x63be1898a424616367e19bbd881f456a78470e123e2770b5b5dcdceb61279c54::movegpt_token::MovegptCoin/logo.png",
+    "website": "https://movegpt.io/"
+}

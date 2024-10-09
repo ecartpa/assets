@@ -1,0 +1,9 @@
+{
+    "id": "0xe88ae9670071da40a9a6b1d97aab8f6f1898fdc3b8f1c1038b492dfad738448b::coin::Donk",
+    "name": "DONK",
+    "symbol": "DONK",
+    "decimals": 8,
+    "coingecko_id": "donk_apt",
+    "logo": "assets/0xe88ae9670071da40a9a6b1d97aab8f6f1898fdc3b8f1c1038b492dfad738448b::coin::Donk/logo.png",
+    "website": "https://donkmove.com/"
+}

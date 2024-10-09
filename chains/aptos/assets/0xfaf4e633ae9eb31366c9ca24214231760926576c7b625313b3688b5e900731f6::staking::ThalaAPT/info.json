@@ -1,0 +1,9 @@
+{
+    "id": "0xfaf4e633ae9eb31366c9ca24214231760926576c7b625313b3688b5e900731f6::staking::ThalaAPT",
+    "name": "Thala APT",
+    "symbol": "thAPT",
+    "decimals": 8,
+    "coingecko_id": "thala-apt",
+    "logo": "assets/0xfaf4e633ae9eb31366c9ca24214231760926576c7b625313b3688b5e900731f6::staking::ThalaAPT/logo.png",
+    "website": "https://thala.fi/"
+}

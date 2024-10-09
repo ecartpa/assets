@@ -1,0 +1,9 @@
+{
+    "id": "0xd916a950d4c1279df4aa0d6f32011842dc5c633a45c11ac5019232c159d115bb::coin::T",
+    "name": "wTBT Pool",
+    "symbol": "wTBT",
+    "decimals": 8,
+    "coingecko_id": "wtbt",
+    "logo": "assets/0xd916a950d4c1279df4aa0d6f32011842dc5c633a45c11ac5019232c159d115bb::coin::T/logo.png",
+    "website": "https://www.tprotocol.io/"
+}

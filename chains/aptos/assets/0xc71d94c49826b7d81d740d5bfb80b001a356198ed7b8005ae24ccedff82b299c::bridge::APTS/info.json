@@ -1,0 +1,9 @@
+{
+    "id": "0xc71d94c49826b7d81d740d5bfb80b001a356198ed7b8005ae24ccedff82b299c::bridge::APTS",
+    "name": "APTS Token",
+    "symbol": "APTS",
+    "decimals": 8,
+    "coingecko_id": "",
+    "logo": "assets/0xc71d94c49826b7d81d740d5bfb80b001a356198ed7b8005ae24ccedff82b299c::bridge::APTS/logo.png",
+    "website": "https://bluemove.net/collection/apts"
+}

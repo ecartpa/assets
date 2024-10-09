@@ -1,0 +1,9 @@
+{
+    "id": "0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3::reserve::LP<0xdd89c0e695df0692205912fb69fc290418bed0dbe6e4573d744a6d5e6bab6c13::coin::T>",
+    "name": "Aries Solana (Wormhole) LP Token",
+    "symbol": "ar-SOL",
+    "decimals": 8,
+    "coingecko_id": "",
+    "logo": "assets/0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3::reserve::LP<0xdd89c0e695df0692205912fb69fc290418bed0dbe6e4573d744a6d5e6bab6c13::coin::T>/logo.png",
+    "website": "https://ariesmarkets.xyz/"
+}
